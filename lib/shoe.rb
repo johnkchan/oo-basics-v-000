@@ -1,6 +1,6 @@
 # Make your shoe class here!
 class Shoe
-  attr_accessible
+  attr_accesor 
   
   def initialize(brand)
     @brand = brand
